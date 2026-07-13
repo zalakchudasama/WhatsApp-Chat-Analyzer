@@ -2,6 +2,10 @@
 
 AI, Machine Learning & Cybersecurity powered WhatsApp Chat Analyzer built with Streamlit.
 
+## 🚀 Live Demo
+
+https://zalak-whatsapp-chat-analyzer.streamlit.app/
+
 ## 🚀 Features
 
 - Upload WhatsApp Chat (.txt)
