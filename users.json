@@ -1,0 +1,12 @@
+{
+  "z_c_hacker": {
+    "password": "c7dc17957534e1aa6e665d3ac05ce20338d4f580d0ebc11cb39531d8101892cc",
+    "role": "admin",
+    "created": "2026-07-12 23:30:15.993426"
+  },
+  "manav": {
+    "password": "fab756484ba4355e3fe920a27d7817b31e3e1f1ed1fb5519add7d14adb7bd658",
+    "role": "user",
+    "created": "2026-07-12 23:31:44.560843"
+  }
+}
