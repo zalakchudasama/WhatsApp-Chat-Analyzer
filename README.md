@@ -69,6 +69,8 @@ Diploma Computer Engineering
 
 Om Institute of Technology
 
+© 2026 Zalak Chudasama. All rights reserved.
+
 ## ⭐ Project
 
 WhatsApp Chat Analyzer using AI, Machine Learning & Cybersecurity.
