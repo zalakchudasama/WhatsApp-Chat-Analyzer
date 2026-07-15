@@ -79,18 +79,6 @@ def show_login_register_page():
 
     st.markdown("""
     <style>
-    html, body,
-    [data-testid="stAppViewContainer"],
-    [data-testid="stMain"],
-    [data-testid="stMainBlockContainer"],
-    .main, .block-container {
-        overflow: hidden !important;
-        height: 100vh !important;
-        max-height: 100vh !important;
-    }
-    [data-testid="stDecoration"]{ display:none !important; }
-    ::-webkit-scrollbar{ width:0px; height:0px; display:none; }
-
     @keyframes bgDrift{
         0%{ background-position:20% 20%, 80% 10%, 50% 90%, 0% 0%; }
         50%{ background-position:60% 40%, 30% 60%, 20% 30%, 100% 100%; }
@@ -104,10 +92,8 @@ def show_login_register_page():
             linear-gradient(160deg, #04241f 0%, #075E54 50%, #052e29 100%);
         background-size:200% 200%, 200% 200%, 200% 200%, 100% 100%;
         animation:bgDrift 20s ease-in-out infinite;
-        overflow:hidden !important;
-        height:100vh !important;
     }
-
+                
     .stApp::before{
         content:"";
         position:fixed;
